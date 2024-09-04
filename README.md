@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [You
 ## 🛠️ Technologies & Tools
 
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/hindawi-app?style=flat&logo=php)
-![Frameworks](https://img.shields.io/badge/Frameworks-Django-green)
+![Frameworks](https://img.shields.io/badge/Frameworks-Laravel-green)
 ![Tools](https://img.shields.io/badge/Tools-VSCode-blue)
 
 ## 📈 GitHub Stats
