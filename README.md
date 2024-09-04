@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [You
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Current Project/Technology].
-- 🌱 I’m currently learning [New Skill/Technology].
+- 🔭 I’m currently working on [Hindawi-App/PHP].
+- 🌱 I’m currently learning [React and React Native].
 - 👯 I’m looking to collaborate on [Types of Projects].
 - 🤔 I’m looking for help with [Specific Problems or Areas].
 - 💬 Ask me about [Topics You’re Knowledgeable About].
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [You
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyjued&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyjued&layout=compact&theme=radical)
 
 ## 🌟 Projects
 
