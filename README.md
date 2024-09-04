@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [You
 
 ## 🛠️ Technologies & Tools
 
-![Languages](https://img.shields.io/github/languages/top/YourUsername/YourRepository?style=flat&logo=python)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/hindawi-app?style=flat&logo=python)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Django-green)
 ![Tools](https://img.shields.io/badge/Tools-VSCode-blue)
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [You
 
 Here are a few projects I've worked on:
 
-- **[Project 1](https://github.com/YourUsername/Project1)**: A brief description of what this project does.
+- **[Project 1](https://github.com/antonyjued/Hindawi-app)**: A brief description of what this project does.
 - **[Project 2](https://github.com/YourUsername/Project2)**: A brief description of this project.
 - **[Project 3](https://github.com/YourUsername/Project3)**: A brief description of this project.
 
