@@ -1,7 +1,7 @@
 # hindawi-app
 
 > :warning: this warning message
-
+> :memo: Note File Mode
 Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [Your Interests]. Here’s a bit about me and my work:
 
 ## 🚀 About Me
